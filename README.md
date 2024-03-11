@@ -1,0 +1,2 @@
+# VedantaAcademy
+Static website
